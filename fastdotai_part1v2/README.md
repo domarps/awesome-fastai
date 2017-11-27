@@ -3,7 +3,7 @@
 
 - Lesson 0
 
-  -- ![Wiki]
+  -- ![Timelines](./lesson0/lesson0_timelines.md)
 
 - Lesson 1
 
