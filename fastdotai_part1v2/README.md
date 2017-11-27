@@ -3,8 +3,12 @@
 
 - Lesson 0
 
+  -- ![Wiki]
+
 - Lesson 1
+
    -- ![Wiki](./lesson1/lesson1_wiki.md)
+
 - Lesson 2
 
     -- [Video](https://youtu.be/JNxcznsrRb8)
