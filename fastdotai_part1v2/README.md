@@ -10,3 +10,5 @@
 - Lesson 3 ![video](https://youtu.be/9C06ZPF8Uuc) ![timelines](./lesson3/lesson3_timelines.md) ![wiki](./lesson3/lesson3_wiki.md)
 
 - Lesson 4 ![video](https://youtu.be/gbceqO8PpBg) ![wiki](./lesson4/lesson4_wiki.md)
+
+- Lesson 6 ![video](https://youtu.be/sHcLkfRrgoQ) ![timelines](./lesson6/lesson6_timelines.md) ![wiki](./lesson6/lesson6_wiki.md)
